@@ -2,7 +2,7 @@ baseURL = "https://i-am-marcos.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Marcis | Portfolio Template"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = "London, UK"
+author = "Marcos Peebles"
+copyright = "Based on &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+description = "Marcos Peebles"
+email = "marcos.peebles@gmail.com"
 google_analitycs_id = ""
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = "+44 7976 532 520"
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -51,8 +51,8 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
+URL = "https://twitter.com/MarcosPeebles"
+icon = "ti-twitter"
 [[params.social]]
 URL = "#"
 icon = "ti-instagram"
