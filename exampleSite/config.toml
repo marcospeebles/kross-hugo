@@ -1,4 +1,4 @@
-baseURL = "http://i-am-marcos.netlify.com"
+baseURL = "https://i-am-marcos.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
