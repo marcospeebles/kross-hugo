@@ -10,7 +10,7 @@ about:
     fugiat nulla pariatur.
   button:
     enable: true
-    label: know more
+    label: tell me more
     URL: about
 skill:
   enable: true
