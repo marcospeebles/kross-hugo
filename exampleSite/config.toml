@@ -59,6 +59,3 @@ icon = "ti-instagram"
 [[params.social]]
 URL = "#"
 icon = "ti-linkedin"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
