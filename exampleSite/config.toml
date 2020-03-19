@@ -2,7 +2,7 @@ baseURL = "https://i-am-marcos.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Marcis | Portfolio Template"
+title = "Marcos Peebles | Portfolio"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -22,7 +22,7 @@ weight = 5
 [params]
 address = "London, UK"
 author = "Marcos Peebles"
-copyright = "Based on &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Based on theme by &copy; [gethugothemes](https://gethugothemes.com)"
 description = "Marcos Peebles"
 email = "marcos.peebles@gmail.com"
 google_analitycs_id = ""
