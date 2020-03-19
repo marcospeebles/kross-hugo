@@ -52,7 +52,7 @@ enable = true
 preloader = ""
 [[params.social]]
 URL = "https://twitter.com/MarcosPeebles"
-icon = "ti-twitter"
+icon = "ti-twitter-alt"
 [[params.social]]
 URL = "#"
 icon = "ti-instagram"
